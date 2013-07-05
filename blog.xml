@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<response>
+
+
+
+<post>
+
+	<title>oAuth and twitter</title>
+	<content>
+	To release my twitter status I have to work with oAuth php library. I'm on the way (:
+	</content>
+	<date>Tue Sep 06 15:30:00 2011</date>
+</post>
+
+
+
+
+<post>
+
+	<title>I'm on github!</title>
+	<content>
+	Follow or fork my <![CDATA[<a href="https://github.com/p1mps">projects on github</a>]]>
+	</content>
+	<date>Tue Sep 06 15:23:00 2011</date>
+</post>
+         
+
+	<post>
+         <title>twitter and rss</title>
+          <content>I'm working to include to read from my website my live status twitter update and include all news that i read everyday</content>
+          <date>Thu Jan 28 01:28:04 2010</date>
+        </post>
+
+
+<post><title>geo ip database
+</title><content>In section files u will find my perl script to make a geo ip database based on country's ip. I hope you will find it useful :&gt;. It uses MYSQL as backend database
+</content><date>Sat Mar 20 02:35:09 2010</date></post>
+         <post>
+         <title>twitter and rss</title>
+          <content>I'm working to include to read from my website my live status twitter update and include all news that i read everyday</content>
+          <date>Thu Jan 28 01:28:04 2010</date>
+        </post>
+        <post>
+        <title>Neural Recursive net</title>
+        <content>Some good introduction to this <![CDATA[<a href="http://www.scitopics.com/Recursive_neural_networks_for_processing_structured_data.htm">stuff</a>
+]]>,maybe i will do my final thesis on it</content>
+        <date>Tue Jan 26 19:35:22 2010</date>
+        </post>
+
+        <post><title>Job found!</title>
+        <content>Now i'm a django developer, maybe i will post something about django and APACHE on theese pages, stay tuned!</content>
+        <date>Thu Jan 21 00:22:29 2010</date>
+        </post>
+
+        <post>
+        <title>Migrating to PHP</title>
+        <content>I have to remake my site's backend, the stupid google bot doesn't parse Javascript so it can't see the site content. Php-XML i'm coming :D
+</content>
+        <date>Fri Jan 15 01:12:54 2010</date>
+        </post><post>
+        <title>Try to getting the design better</title>
+
+        <content>Working around css and html layout. My Ajax backend is wonderful :)</content>
+        <date>Mon Dec 21 20:16:07 2009</date>
+        </post>
+        <post>
+                <title>Site is up!</title>
+        <content>Enjoy surfing</content>
+        <date>Sun Dec 20 15:53:40 2009</date>
+        </post>
+</response>
